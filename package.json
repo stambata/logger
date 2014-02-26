@@ -1,0 +1,11 @@
+{
+  "name": "logger",
+  "version": "5.0.0",
+  "dependencies": {
+    "wire": ">=0.10.5",
+    "winston": "~0.7.2",
+    "winston-couchdb": "~0.6.2",
+    "winston-logio": "~0.2.0",
+    "log.io": "~0.3.3"
+  }
+}
