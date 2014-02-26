@@ -1,4 +1,4 @@
-From the main folder:
+While in the main folder:
 > node
-> require('./spec').then(function(p){logger = p.logger}).otherwise(function(p){err = p})
+> require('./spec').then(function(context){logger = context.logger}).otherwise(function(er){err = er})
 > logger.info('test info log message body')
