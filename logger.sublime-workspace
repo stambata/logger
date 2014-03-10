@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/spec.js",
+			"settings":
+			{
+				"buffer_size": 2328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/logger.js",
+			"settings":
+			{
+				"buffer_size": 4447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/debugConsole.js",
+			"settings":
+			{
+				"buffer_size": 886,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/tier.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/participant.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/main.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/js/main.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/fsp_switch.sublime-project",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/scheme-rules.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/pas/schedule.pas",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/operations.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/test/tests.json",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/test/validation.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/test/test.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/test/test.html",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/customers-info.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/js/transaction.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/transaction.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/account.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/js/account.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/js/customer.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/reports/param.Display.html",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/datasources.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/admin-changepassword.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/db/customer.xml",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/js/actions.js",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/blacklist.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/tiers.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/rules-and-requirements.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/participants.jfx",
+		"/E/node/logger/.gitignore",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/scheme-rules-and-escrow-requirements.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/user-change-password.jfx",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/main.html",
+		"/E/SG/ut_switch/htdocs/impl/fsp_switch/jf/scheme-rules_escrow-requirements.jfx",
+		"/E/SG/ut_switch/fsp_sbank.cmd",
+		"/E/SG/ut_switch/fsp_sbank.ini",
+		"/E/SG/ut_switch/fsp_switch.ini",
+		"/E/SG/ut_switch/fsp_switch.cmd",
+		"/E/SG/ut_switch/fsp_mobile.ini",
+		"/E/SG/ut_switch/fsp_mobile.cmd",
+		"/E/SG/ut_switch/fsp_organization.ini",
+		"/E/SG/ut_switch/fsp_organization.cmd",
+		"/E/SG/ut_switch/htdocs/impl/gates/fsp_organization/README.md",
+		"/E/SG/ut_switch/htdocs/impl/gates/fsp_switch/README.md",
+		"/E/SG/ut_switch/htdocs/impl/gates/fsp_sbank/README.md",
+		"/E/SG/ut_switch/htdocs/impl/gates/fsp_mobile/README.md",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.NoDefault.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/js/actions.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/main.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/vodafone_vouchers.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscriptions.jfx",
+		"/E/SG/ut_switch/htdocs/impl/UTMobileMicrocred/phone/ministat.html",
+		"/C/Users/stamen.peev/Desktop/cash-in.js",
+		"/C/Users/stamen.peev/Desktop/cash-in.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/login.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/Subscriptions-status.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.Rbal_bankbranch.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.Status.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.Mpay_id.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/subscriptions.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.StartDate.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/param.IBAN.html",
+		"/E/Stuff/build-complete-website-expressjs-master/README.md",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/sms-sent.html",
+		"/E/SG/ut_switch/htdocs/lib/js/ut-lib.js",
+		"/E/Stamen/Libra/include/core.js",
+		"/E/SG/ut_switch/htdocs/js/jsfacade/jsfacade.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/js/main.js",
+		"/E/SG/ut_switch/htdocs/lib/js/ut-actions.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/main.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/ussd/digitalb/main.xml",
+		"/E/SG/ut_switch/htdocs/impl/bakcell/main.html",
+		"/E/SG/ut_switch/htdocs/impl/bakcell/db/main.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/js/merchant.js",
+		"/E/SG/ut_switch/htdocs/js/jsfacade/jsfacade.js.gz",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/server/javadoc/com/isomorphic/jpa/JPADataSource.html",
+		"/E/SG/ut_switch/htdocs/js/jquery.md5.js",
+		"/E/SG/ut_switch/htdocs/js/jsfacade/holder.min.js",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/welcome/helloStyled.css",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/sgal_funds_reservation.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/db/subscriptions.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscription-reset_unsubscribe.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/schema/01$Initialization.sql",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/sms-queued.html",
+		"/E/SG/ut_switch/htdocs/js/supersleight-min.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/db/subscriptions-split.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscription-sign_form.jfx",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/TextAreaItem.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/db/eagle_airtime.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/public/sgal-funds-reservation.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/SmartClient_Explorer.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/AuditLog.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/settlement.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/Settlement.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscription-edit.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/pas/errordef.txt",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/merchant_data_upload.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscription-block.jfx",
+		"/E/SG/ut_switch/htdocs/js/smartclient8/system/helpers/greenPointGetImage.jsp.example",
+		"/E/SG/ut_switch/htdocs/js/jsfacade/sc.application.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/subscription-create.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/ussd/purchase-vodafone-bundle.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/branches_administer.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/db/branches.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/serverExamples/jpa/relations/jpaIncludeFrom.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/db/userrights.xml",
+		"/E/SG/ut_switch/htdocs/lib/db/security/unit.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/schema/IsUniqueValidator.ds.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/schema/CompoundEditor.ds.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/grids/dataOperations/databoundRemove.js",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/grids/dataOperations/databoundRemove-1.rctest.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/ws/sgal-funds-reservation-reversal.xml",
+		"/E/node/sailsPrj1/views/home/index.ejs",
+		"/E/node/sailsPrj1/config/routes.js",
+		"/E/node/sailsPrj1/api/models/Foo.js",
+		"/E/node/sailsPrj1/api/controllers/FooController.js",
+		"/E/node/sailsPrj1/api/policies/isAuthenticated.js",
+		"/E/node/sailsPrj1/config/controllers.js",
+		"/E/node/sailsPrj1/app.js",
+		"/E/SG/ut_switch/htdocs/impl/mpay/ussd/main-approved-checkpin.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/jf/rbal_balance.jfx",
+		"/E/SG/ut_switch/htdocs/impl/mpay/reports/Subscriptions-updated.html",
+		"/E/SG/ut_switch/htdocs/impl/mpay/test/EagleMobile-SMS-soapui-project.xml",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/grids/filtering/filterBuilderBracket.js",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/dragdrop/dragList_data.js",
+		"/E/SG/ut_switch/htdocs/impl/bakcell/schema/Bakcell_IssuerTxState_Get_All.sql",
+		"/E/SG/ut_switch/htdocs/impl/bakcell/schema/Bakcell_Users_According_Rights_Get.sql",
+		"/E/SG/ut_switch/htdocs/impl/mpay/ussd/topup-amount.xml",
+		"/E/SG/ut_switch/htdocs/impl/mpay/pas/tests.pas",
+		"/E/SG/ut_switch/htdocs/js/smartclient8.3/system/reference/inlineExamples/grids/excel/gridToGrid-copyAll.rctest.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"",
+			"!*.jfx",
+			"*.jfx",
+			"*.jsfx",
+			"!*.jsfx",
+			"!.jsfx",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logio",
+			"addLogger",
+			"dynamicLogsPath",
+			"jsfa:grid",
+			"\"/>\n",
+			"<jsfa:field name=\"registration_id\" caption=\"$[Registration id]\" />",
+			"sg:",
+			"customer.xml",
+			"db=\"FSP-Ist-db\"",
+			"sg:sql",
+			"~default",
+			"IST",
+			"ist",
+			"M-PAY",
+			"~default~",
+			"body",
+			"vodafone_vouchers",
+			"loaded",
+			"vodafone_vouchers",
+			"settlement",
+			"sg:container sg:rows=\"",
+			"<sg:container sg:rows=\"json",
+			"sg:container sg:rows=\"json.rows\"",
+			"isc.warn",
+			"transfer",
+			"arg.",
+			"rbal_bankbranch",
+			"branch",
+			"phone",
+			"sg",
+			"mpay-admin",
+			"mpay-",
+			"EndDate",
+			"tab :",
+			"tab:",
+			"action:",
+			"tab",
+			"frame",
+			"reportfs",
+			"subscriptions-status",
+			"\">\n",
+			"<",
+			"datetime",
+			"Start",
+			"Start date",
+			"banks",
+			"SELECT Bank as name FROM MerchantAccounts group by Bank",
+			"arg",
+			"\"arg\"",
+			"um_groups_rights_main",
+			"UnderTree_Message_",
+			"undertree_message",
+			"sg:rows",
+			"<sg:json",
+			"transformResponse_action",
+			"jsfa:field",
+			"field",
+			"sg:container sg:",
+			"sg:container sg",
+			"container",
+			"toolbutton",
+			"jsfa",
+			"DATAPACKET",
+			"<\n",
+			"jsfa",
+			"field",
+			"jsfa:button",
+			"button",
+			"toolbutton",
+			"sg:if",
+			"=\"",
+			"jsfa:grid",
+			".pas",
+			".ps:",
+			".pas:",
+			"jsfa",
+			"settings",
+			"style",
+			"ut-title",
+			"loaded8",
+			"loaded8:",
+			"init8",
+			"onload",
+			"jsAutoloadCollection",
+			"init8",
+			"JSFACADEPATH",
+			"scriptsAutoload",
+			"init8",
+			"application",
+			"loaded8",
+			"onload",
+			"onload:",
+			"mpay-sgal",
+			"M-Pay SGAL",
+			"XMLTools.loadWSDL",
+			"<isc:loadWSDL",
+			"wsdl",
+			"datasource",
+			"datasour",
+			"E:\\SG\\ut_switch\\",
+			"E:\\",
+			"prototype"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<sg:container>\n    <sg:container sg:if=\"${field('_REST_Fetch')}\">\n        <sg:sql db=\"FSP-Ist-db\" sg:name=\"rows\">\n            select 'Not implemented' _errorText,'1' _errorCode\n        </sg:sql>\n    </sg:container>\n\n    <sg:container sg:if=\"${field('_REST_Update')}\">\n        <sg:sql db=\"FSP-Ist-db\">\n            select 'Not implemented' _errorText,'1' _errorCode\n        </sg:sql>\n    </sg:container>\n\n    <sg:container sg:if=\"${field('_REST_Insert')}\">\n        <sg:sql db=\"FSP-Ist-db\">\n            select 'Not implemented' _errorText,'1' _errorCode\n        </sg:sql>\n    </sg:container>\n\n    <sg:container sg:if=\"${field('_REST_Delete')}\">\n        <sg:sql db=\"FSP-Ist-db\">\n            select 'Not implemented' _errorText,'1' _errorCode\n        </sg:sql>\n    </sg:container>\n\n    <sg:export sg:rows=\"rows\" sg:if=\"${params.export_json}\" sg:ifnot=\"${params.export_xml}\" format=\"json\"/>\n    <sg:export sg:rows=\"rows\" sg:if=\"${params.export_xml}\" sg:ifnot=\"${params.export_json}\" format=\"xml\"/>\n</sg:container>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								323
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "a7dd7e40",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/logger.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								701
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "15871723",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 828.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/debugConsole.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "7572c2d0",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "logger.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scheme",
+				"jf\\scheme-rules.jfx"
+			],
+			[
+				"display",
+				"reports\\param.Display.html"
+			],
+			[
+				"account",
+				"js\\account.js"
+			],
+			[
+				"main.",
+				"mpay\\js\\main.js"
+			],
+			[
+				"jsfaca",
+				"htdocs\\js\\jsfacade\\jsfacade.js"
+			],
+			[
+				"ut-lib",
+				"htdocs\\lib\\js\\ut-lib.js"
+			],
+			[
+				"sms-sent",
+				"htdocs\\impl\\mpay\\reports\\sms-sent.html"
+			],
+			[
+				"sc.applica",
+				"htdocs\\js\\jsfacade\\sc.application.js"
+			],
+			[
+				"subscriptions.xml",
+				"mpay\\db\\subscriptions.xml"
+			],
+			[
+				"main.j",
+				"htdocs\\impl\\mpay\\jf\\main.jfx"
+			],
+			[
+				"subscriptions.jfx",
+				"mpay\\jf\\subscriptions.jfx"
+			],
+			[
+				"merchant.js",
+				"mpay\\js\\merchant.js"
+			],
+			[
+				"actions.js",
+				"mpay\\js\\actions.js"
+			],
+			[
+				"ut-actions.js",
+				"htdocs\\lib\\js\\ut-actions.js"
+			],
+			[
+				"userrights.xml",
+				"mpay\\db\\userrights.xml"
+			],
+			[
+				"mpaydb-out.pas",
+				"mpay\\pas\\mpaydb-out.pas"
+			],
+			[
+				"sc.app",
+				"js\\jsfacade\\sc.application.js"
+			],
+			[
+				"vodatopout",
+				"pas\\vodafone-topup-out.pas"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"fsp_",
+				"E:\\SG\\ut_switch\\htdocs\\impl\\fsp_switch\\fsp_switch.sublime-project"
+			],
+			[
+				"",
+				"E:\\SG\\ut_switch\\htdocs\\impl\\fsp_sbank\\fsp_sbank.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
